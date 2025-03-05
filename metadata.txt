@@ -6,7 +6,7 @@
 name=Crop Site Suitability Analysis
 qgisMinimumVersion=3.0
 description=Equal weighted overlay analysis for crop site suitability mapping.
-version=0.1
+version=0.2
 author=ICIMOD
 email=nimesh.bhandari@icimod.org
 
@@ -20,7 +20,8 @@ repository=https://github.com/Nims58/qgis-crop-site-suitability
 
 hasProcessingProvider=no
 # Uncomment the following line and add your changelog:
-# changelog=
+changelog=Fixes and improvements
+        - Fix add/remove selected layer issue
 
 # Tags are comma separated with spaces allowed
 tags=python, crop, suitability analysis, equal weighted overlay, reclassification
