@@ -1,0 +1,9 @@
+help/
+scripts/
+test/
+
+pb_tool.cfg
+plugin_upload.py
+pylintrc
+resources.py
+resources.qrc
